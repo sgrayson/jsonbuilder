@@ -11,9 +11,11 @@ Run with:
 
 Examples:
 
-localhost:3000/api/data 							==> 	{}
-localhost:3000/api/data?name=Sean					==> 	{"name":"Sean"}
-localhost:3000/api/data?hello=world&goodbye=moon    ==> 	{"hello":"world","goodbye":"moon"}
+	localhost:3000/api/data 							==> 	{}
+
+	localhost:3000/api/data?name=Sean					==> 	{"name":"Sean"}
+	
+	localhost:3000/api/data?hello=world&goodbye=moon    ==> 	{"hello":"world","goodbye":"moon"}
 
 
 
